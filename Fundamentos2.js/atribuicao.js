@@ -2,7 +2,7 @@ const a = 7
 let b = 6
 
 b += a // b = b + a
-console.log(b)
+console.log(`O resultado é ${b}`)
 
 b -= 4 // b = b - 4
 console.log(b)
